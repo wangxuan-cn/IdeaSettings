@@ -1,2 +1,0 @@
-# IdeaSettings
-Idea设置
